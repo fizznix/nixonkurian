@@ -17,7 +17,7 @@ const data = {
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("kuriannixon"),
   instagram: chalk.gray("https://instagram.com/") + chalk.redBright("fizz_nix"),
   github:
-    chalk.gray("https://github.com/") + chalk.blackBright("Scarface69420"),
+    chalk.gray("https://github.com/") + chalk.blackBright("fizznix"),
   linkedin:
     chalk.gray("https://linkedin.com/in/") +
     chalk.blue("nixon-kurian-5438b320b"),
