@@ -13,7 +13,7 @@ const option = {
 
 const data = {
   name: chalk.white("                Nixon Kurian"),
-  handle: chalk.white("Scarface69420"),
+  handle: chalk.white("fizznix"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("kuriannixon"),
   instagram: chalk.gray("https://instagram.com/") + chalk.redBright("fizz_nix"),
   github:
